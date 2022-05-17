@@ -9,7 +9,7 @@
 
     let jumpCnt = 0;
     let max = 0;
-    let oldMax = 0
+    let oldMax = 0;
 
     for(let i = 0; i < nums.length - 1; i++){
         max = Math.max(nums[i] + i, max);
