@@ -6,7 +6,7 @@
 
  var searchInsert = function (nums, target) {
     if (nums[0] > target)
-        return 0;
+        return 0; 
 
     if (nums[nums.length - 1] < target)
         return nums.length;
