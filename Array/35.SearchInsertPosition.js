@@ -18,7 +18,7 @@
         else {
             if (nums[i] < target && target < nums[i + 1])
                 return i + 1;
-        }
+        } 
     }
 };
 
