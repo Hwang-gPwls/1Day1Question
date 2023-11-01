@@ -84,9 +84,9 @@ console.log(a, rest); // 1, [2, 3]
 const array = [];
 
 //.push() : 배열의 맨 끝에 값을 추가한다.
-//.unshift() : 배열의 맨 앞에 값을 추가한다.
 //.pop() : 배열의 맨 끝에 값을 제거한다.
 //.shift() : 배열의 맨 앞에 값을 제거한다.
+//.unshift() : 배열의 맨 앞에 값을 추가한다.
 
 array.push(1);
 array.push(2);
